@@ -1,0 +1,451 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="revadhingra.com" resolutions="1x,2x" timestamp="1523764181581">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="455545998" ref="meme-advertising:index:visual-rhetoric:reviews:sign-up"/>
+    <file name="nomq_preview_master_a-master.css" crc="190264761" ref="meme-advertising:index:visual-rhetoric:reviews:sign-up"/>
+    <file name="meme-advertising.css" crc="4192322462" ref="meme-advertising"/>
+    <file name="index.css" crc="3985882916" ref="index"/>
+    <file name="nomq_index.css" crc="3875496609" ref="index"/>
+    <file name="visual-rhetoric.css" crc="3995632010" ref="visual-rhetoric"/>
+    <file name="reviews.css" crc="249012832" ref="reviews"/>
+    <file name="sign-up.css" crc="4192322462" ref="sign-up"/>
+  </folder>
+  <folder name="assets">
+    <file name="meat1.jpg" crc="3766093704" seo="true" mt="1523677237000"/>
+    <file name="animation1.mp4" crc="4067336821" seo="true" mt="1523692361000"/>
+    <file name="introduction.mp4" crc="22324150" seo="true" mt="1523703674000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+    <file name="museutils.js" crc="340535759" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+    <file name="whatinput.js" crc="86476730" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+    <file name="museconfig.js" crc="310584261" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:visual-rhetoric:meme-advertising:reviews:sign-up"/>
+  </folder>
+  <folder name="images">
+    <file name="intro2-02.png" crc="85127479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aah.png" crc="4143906029" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aah_2x.png" crc="3790172244" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hatman.png" crc="344821786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hatman_2x.png" crc="95178828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolface.png" crc="4060544852" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolface.gif" crc="3881346059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youdontsay.png" crc="28599556" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youdontsay_2x.png" crc="525373909" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jackie.png" crc="463273767" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jackie_2x.png" crc="3835018137" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watchout.png" crc="4236297903" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watchout.gif" crc="4264726701" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freddie.png" crc="461933539" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freddie_2x.png" crc="3759420298" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freddie.gif" crc="3921783456" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="freddie_2x.gif" crc="3921783456" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fa2.png" crc="3814558710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fa2_2x.png" crc="4216091563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fa2.gif" crc="4261582827" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fa2_2x.gif" crc="4261582827" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oops.png" crc="4163649372" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oops_2x.png" crc="3808794264" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="true-story.png" crc="459449670" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="true-story.gif" crc="480091253" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pooloftears.png" crc="381651765" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pooloftears_2x.png" crc="4174290383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sadface.png" crc="298959937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sadface_2x.png" crc="182916323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="challenge.png" crc="452326390" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="challenge_2x.png" crc="3897581357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="halfface.png" crc="3879552308" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="halfface_2x.png" crc="4055094822" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerface-u1316-fr.png" crc="460467396" ref="index"/>
+    <file name="pokerface-u1316-fr_2x.png" crc="4004233103" ref="index"/>
+    <file name="pokerface.gif" crc="4263497072" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerface_2x.gif" crc="4263497072" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitchplease2.png" crc="215490240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitchplease2_2x.png" crc="145738443" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitchplease.gif" crc="241866150" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitchplease_2x.gif" crc="241866150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuno.png" crc="153734195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuno_2x.png" crc="368581608" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuno.gif" crc="155663283" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuno_2x.gif" crc="155663283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerface.png" crc="23914039" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokerface_2x.png" crc="3903826428" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook copy.png" crc="4147573912" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook copy_2x.png" crc="3972679350" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook.gif" crc="25409399" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook_2x.gif" crc="25409399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derpina.png" crc="3798736414" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derpina_2x.png" crc="6289374" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derpina.gif" crc="287060078" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derpina_2x.gif" crc="287060078" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="idk.png" crc="183937252" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="idk_2x.png" crc="4184824603" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smile.png" crc="305734772" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smile_2x.png" crc="3989034643" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stick.png" crc="284917899" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stick_2x.png" crc="4036805655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stick.gif" crc="4262206418" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stick_2x.gif" crc="4262206418" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="megusta.png" crc="3948582929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="megusta.gif" crc="4143411432" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fat.png" crc="105811664" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fat_2x.png" crc="264832754" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cry.png" crc="3846620530" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cry.gif" crc="48150948" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hawface.jpg" crc="4234671327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hawface_2x.jpg" crc="4027944211" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hawface.gif" crc="4233382661" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hawface_2x.gif" crc="4233382661" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trollface.png" crc="3905713176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trollface_2x.png" crc="4156694062" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trollface.gif" crc="497000409" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trollface_2x.gif" crc="497000409" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuckyea.png" crc="105089381" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuckyea_2x.png" crc="306547834" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtfo.png" crc="4136727080" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtfo_2x.png" crc="3877540138" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtfo.gif" crc="3999271272" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gtfo_2x.gif" crc="3999271272" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mother-of-god copy.jpg" crc="4192816955" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mother-of-god copy_2x.jpg" crc="4187314544" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alone.png" crc="197573967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alone.gif" crc="3827369563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derphappy.png" crc="114745742" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="derphappy_2x.png" crc="3782383853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook.png" crc="3830089430" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidelook_2x.png" crc="237901286" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ayfkm.png" crc="504237991" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ayfkm_2x.png" crc="3947902216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ayfkm.gif" crc="3815613673" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ayfkm_2x.gif" crc="3815613673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sad2.png" crc="3769529132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sad2_2x.png" crc="297776390" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="challenge-u2600-fr.png" crc="233229706" ref="index"/>
+    <file name="challenge-u2600-fr_2x.png" crc="3794759484" ref="index"/>
+    <file name="transf.png" crc="360113448" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transf_2x.png" crc="505294034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trans.gif" crc="3790384536" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trans_2x.gif" crc="3790384536" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backtofuture.png" crc="4068194782" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backtofuture_2x.png" crc="253820269" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obama.png" crc="417598589" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obama_2x.png" crc="4284307913" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obama.gif" crc="473111593" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obama_2x.gif" crc="473111593" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro1.png" crc="3829664591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro1_2x.png" crc="457385374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro2-02745x510.png" crc="85127479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aah-u1607-fr.png" crc="4288068412" ref="index"/>
+    <file name="aah-u1607-fr_2x.png" crc="56957286" ref="index"/>
+    <file name="hatman-u1657-fr.png" crc="3995764959" ref="index"/>
+    <file name="hatman-u1657-fr_2x.png" crc="4233524740" ref="index"/>
+    <file name="youdontsay-u1933-fr.png" crc="435636694" ref="index"/>
+    <file name="youdontsay-u1933-fr_2x.png" crc="60625510" ref="index"/>
+    <file name="jackie-u1596-fr.png" crc="82126496" ref="index"/>
+    <file name="jackie-u1596-fr_2x.png" crc="4129599240" ref="index"/>
+    <file name="fa2-u2122-fr.png" crc="4025472887" ref="index"/>
+    <file name="fa2-u2122-fr_2x.png" crc="277359776" ref="index"/>
+    <file name="oops-u2111-fr.png" crc="4261360729" ref="index"/>
+    <file name="oops-u2111-fr_2x.png" crc="4043646771" ref="index"/>
+    <file name="pooloftears-u1954-fr.png" crc="25372940" ref="index"/>
+    <file name="pooloftears-u1954-fr_2x.png" crc="233346796" ref="index"/>
+    <file name="sadface-u1846-fr.png" crc="4213227998" ref="index"/>
+    <file name="sadface-u1846-fr_2x.png" crc="3933808096" ref="index"/>
+    <file name="challenge-u1777-fr.png" crc="239436733" ref="index"/>
+    <file name="challenge-u1777-fr_2x.png" crc="3825430689" ref="index"/>
+    <file name="halfface-u1714-fr.png" crc="322633796" ref="index"/>
+    <file name="halfface-u1714-fr_2x.png" crc="98896562" ref="index"/>
+    <file name="pokerface-u1316-fr2.png" crc="3842746191" ref="index"/>
+    <file name="pokerface-u1316-fr_2x2.png" crc="352708970" ref="index"/>
+    <file name="bitchplease2-u1334-fr.png" crc="3923224506" ref="index"/>
+    <file name="bitchplease2-u1334-fr_2x.png" crc="4019574600" ref="index"/>
+    <file name="yuno-u1409-fr.png" crc="191739272" ref="index"/>
+    <file name="yuno-u1409-fr_2x.png" crc="288884786" ref="index"/>
+    <file name="pokerface-u1554-fr.png" crc="4004599328" ref="index"/>
+    <file name="pokerface-u1554-fr_2x.png" crc="3964886420" ref="index"/>
+    <file name="sidelook copy-u2558-fr.png" crc="220410810" ref="index"/>
+    <file name="sidelook copy-u2558-fr_2x.png" crc="4215114509" ref="index"/>
+    <file name="derpina-u1905-fr.png" crc="4075038540" ref="index"/>
+    <file name="derpina-u1905-fr_2x.png" crc="457098634" ref="index"/>
+    <file name="idk-u2133-fr.png" crc="284762350" ref="index"/>
+    <file name="idk-u2133-fr_2x.png" crc="329476735" ref="index"/>
+    <file name="smile-u1618-fr.png" crc="23826607" ref="index"/>
+    <file name="smile-u1618-fr_2x.png" crc="3985476929" ref="index"/>
+    <file name="fat-u2062-fr.png" crc="311857917" ref="index"/>
+    <file name="fat-u2062-fr_2x.png" crc="3966721859" ref="index"/>
+    <file name="hawface-u1284-fr.jpg" crc="185998345" ref="index"/>
+    <file name="hawface-u1284-fr_2x.jpg" crc="142205547" ref="index"/>
+    <file name="trollface-u1219-fr.png" crc="75189808" ref="index"/>
+    <file name="trollface-u1219-fr_2x.png" crc="4162896437" ref="index"/>
+    <file name="fuckyea-u1825-fr.png" crc="286036891" ref="index"/>
+    <file name="fuckyea-u1825-fr_2x.png" crc="3945584617" ref="index"/>
+    <file name="derphappy-u1585-fr.png" crc="3854967156" ref="index"/>
+    <file name="derphappy-u1585-fr_2x.png" crc="4006946627" ref="index"/>
+    <file name="sidelook-u2525-fr.png" crc="3786647474" ref="index"/>
+    <file name="sidelook-u2525-fr_2x.png" crc="3995396820" ref="index"/>
+    <file name="sad2-u2100-fr.png" crc="324575206" ref="index"/>
+    <file name="sad2-u2100-fr_2x.png" crc="4182275845" ref="index"/>
+    <file name="challenge-u2600-fr2.png" crc="4045226288" ref="index"/>
+    <file name="challenge-u2600-fr_2x2.png" crc="517968219" ref="index"/>
+    <file name="backtofuture-u2041-fr.png" crc="3788475543" ref="index"/>
+    <file name="backtofuture-u2041-fr_2x.png" crc="4024039653" ref="index"/>
+    <file name="obama-u1567-fr.png" crc="303151821" ref="index"/>
+    <file name="obama-u1567-fr_2x.png" crc="4175422626" ref="index"/>
+    <file name="intro1348x120.png" crc="214091958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro1348x120_2x.png" crc="188606435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="meat.png" crc="245266621" seo="true" ref="visual-rhetoric">
+      <caption webpage="visual-rhetoric" alt=""/>
+    </file>
+    <file name="meat_2x.png" crc="4240293291" seo="true" ref="visual-rhetoric">
+      <caption webpage="visual-rhetoric" alt=""/>
+    </file>
+    <file name="rhetoric-03-crop-u5024.png" crc="4289488398" seo="true" ref="visual-rhetoric">
+      <caption webpage="visual-rhetoric" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4169333954" seo="true" mt="1523720102547" redirect="true"/>
+  <file name="visual-rhetoric.html" crc="4091657465" seo="true" mt="1523720538966" redirect="true"/>
+  <file name="meme-advertising.html" crc="3837938208" seo="true" mt="1523717250445" redirect="true"/>
+  <file name="reviews.html" crc="3845704051" seo="true" mt="1523720547893" redirect="true"/>
+  <file name="sign-up.html" crc="282238430" seo="true" mt="1523717250445" redirect="true"/>
+</manifest>
